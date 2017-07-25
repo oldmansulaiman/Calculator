@@ -14,13 +14,6 @@
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="278dp" />
 
-    <Button
-        android:id="@+id/btndiv"
-        android:layout_width="98dp"
-        android:layout_height="59dp"
-        android:text="/"
-        tools:layout_editor_absoluteX="294dp"
-        tools:layout_editor_absoluteY="278dp" />
 
     <Button
         android:id="@+id/btn6"
